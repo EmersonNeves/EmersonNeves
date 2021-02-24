@@ -1,4 +1,4 @@
-### Hi there, i'm Emerson 👋
+### Olá, sou o Emerson 👋
 
 
 <img width="3000" height="150" src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" />
