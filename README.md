@@ -26,7 +26,6 @@
 ## Sobre mim
 
 - 😃 Tenho conhecimento em: Javascript, Typescript, HTML, CSS, SASS, ReactJS, Node e NextJS.
-  <img align="right" height="100" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 - 🤓 Estudando e aprimorando constantemente ReactJS, TypeScript, Node, TDD.
 - 🏫 Estudante de Ciência da Computação em [IFRS - Ibirubá](https://ifrs.edu.br/ibiruba/cursos/graduacao/ciencia-da-computacao/)
 - 📫 Contate-me em emersonnevesp01@gmail.com 
